@@ -1,0 +1,8 @@
+D:\pemrograman\calculator\bin\Debug\calculator.exe.config
+D:\pemrograman\calculator\bin\Debug\calculator.exe
+D:\pemrograman\calculator\bin\Debug\calculator.pdb
+D:\pemrograman\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\pemrograman\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+D:\pemrograman\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\pemrograman\calculator\obj\Debug\calculator.exe
+D:\pemrograman\calculator\obj\Debug\calculator.pdb
